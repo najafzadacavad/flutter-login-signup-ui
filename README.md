@@ -22,25 +22,25 @@
 - ### Installation
 
    Clone this repository to your local machine using the following command:
-
+```
    git clone https://github.com/najafzadacavad/flutter-login-signup-ui.git
-
+```
 
    Change to the project directory:
-
+```
    cd flutter-login-signup-ui
-
+```
 
    Fetch the project dependencies by running:
- 
+ ```
    flutter pub get
-
+```
 ## **Running the App**
 
    Connect your device or emulator, and run the following command to launch the app:
-
+```
    flutter run
-
+```
    The app should start on your device/emulator, and you will be able to see the login/signup UI.
 
 ## **Customization**
