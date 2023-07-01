@@ -32,9 +32,9 @@
 ```
 
    Fetch the project dependencies by running:
- ```
-   flutter pub get
 ```
+   flutter pub get
+``` 
 ## **Running the App**
 
    Connect your device or emulator, and run the following command to launch the app:
